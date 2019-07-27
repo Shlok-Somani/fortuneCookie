@@ -1,3 +1,3 @@
 # fortuneCookie
 
-Site deployed at -  https://shloksomani.github.io/fortuneCookie/
+Site deployed at -  https://shlok-somani.github.io/fortuneCookie/
